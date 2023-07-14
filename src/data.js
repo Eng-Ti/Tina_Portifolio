@@ -3,7 +3,7 @@ export const projects = [
     title: "Cash2Go-Loan-App",
     subtitle: "React",
     description:
-      "Collaboration Project - part of the front end team, worked hand in hand with the design team, data analysts and the back end team to come up with a loan App. App allows users to sign up, then sends otp to user's email then using otp user can log in and fill info in loan application profile ",
+      "Collaboration Project - worked hand in hand with the design team, data analysts and the back end team to develop a loan App. App allows users to sign up, then sends otp to user's email. Using otp user can log in and fill in a loan application ",
     image: "./project-1.gif",
     link: "https://cash-loan-pq2b6ww1a-joyibeh93.vercel.app/",
   },
@@ -11,7 +11,7 @@ export const projects = [
     title: "Employee Profile",
     subtitle: "React",
     description:
-      "Individual Project - fetched employee profiles from API,can search through profiles using employee's name ",
+      "Individual Project - fetched employee profiles from API, user can search through profiles using employee's last name. ",
     image: "./project-2.gif",
     link: "https://unique-biscuit-75484c.netlify.app/",
   },
@@ -19,7 +19,7 @@ export const projects = [
     title: "To-Do App",
     subtitle: "React",
     description:
-      "Individual Project - App allows user to list items, cross through items, edit and delete items",
+      "Individual Project - App allows user to list items, cross through items, edit and delete items. User can list as many items as needed.",
     image: "./project-3.gif",
     link: "https://shiny-jelly-3649ef.netlify.app/",
   },
