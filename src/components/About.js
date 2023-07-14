@@ -10,9 +10,11 @@ const About = () => {
                         <br className="hidden lg:inline-block" /> Frontend Developer | Structural Engineer
                     </h1>
                     <p className="mb-8 leading-relaxed">
-                        I am a passionate front-end developer with a knack for crafting captivating and
+                        I am a passionate FrontEnd Developer with a knack for crafting captivating and
                         user-friendly websites. With expertise in HTML, CSS, JavaScript & React. I specialize
-                        in creating immersive digital experiences that leave a lasting impression.
+                        in creating immersive digital experiences that leave a lasting impression. My journey
+                        as a FrontEnd Developer is incomplete without mentioning Stutern, they gave me an opportunity
+                        and a scholarship to study what I know about web development. Thank you Stutern.
                     </p>
                     <div className="flex justify-center">
                         <a
