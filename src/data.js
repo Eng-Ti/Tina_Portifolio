@@ -3,7 +3,7 @@ export const projects = [
     title: "Cash2Go-Loan-App",
     subtitle: "React",
     description:
-      "Collaboration Project - part of the front end team, worked hand in hand with the design team, data analysts and the back end team to come up with a loan app ",
+      "Collaboration Project - part of the front end team, worked hand in hand with the design team, data analysts and the back end team to come up with a loan App. App allows users to sign up, then sends otp to user's email then using otp user can log in and fill info in loan application profile ",
     image: "./project-1.gif",
     link: "https://cash-loan-pq2b6ww1a-joyibeh93.vercel.app/",
   },
