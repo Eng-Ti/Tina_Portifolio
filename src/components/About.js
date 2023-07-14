@@ -13,8 +13,8 @@ const About = () => {
                         I am a passionate FrontEnd Developer with a knack for crafting captivating and
                         user-friendly websites. With expertise in HTML, CSS, JavaScript & React. I specialize
                         in creating immersive digital experiences that leave a lasting impression. My journey
-                        as a FrontEnd Developer is incomplete without mentioning Stutern, they gave me an opportunity
-                        and a scholarship to study what I know about web development. Thank you Stutern.
+                        as a FrontEnd Developer is incomplete without mentioning Stutern.
+                        Thank you Stutern.
                     </p>
                     <div className="flex justify-center">
                         <a

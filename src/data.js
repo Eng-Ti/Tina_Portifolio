@@ -11,7 +11,7 @@ export const projects = [
     title: "Employee Profile",
     subtitle: "React",
     description:
-      "Individual Project",
+      "Individual Project - fetched employee profiles from API,can search through profiles using employee's name ",
     image: "./project-2.gif",
     link: "https://unique-biscuit-75484c.netlify.app/",
   },
@@ -19,7 +19,7 @@ export const projects = [
     title: "To-Do App",
     subtitle: "React",
     description:
-      "Individual Project",
+      "Individual Project - App allows user to list items, cross through items, edit and delete items",
     image: "./project-3.gif",
     link: "https://shiny-jelly-3649ef.netlify.app/",
   },
@@ -27,7 +27,7 @@ export const projects = [
     title: "Starwars Moviecard",
     subtitle: "React",
     description:
-      "Individual Project",
+      "Individual Project - Starwars moviecard website clone - fetched movie profile and info from API.",
     image: "./project-4.gif",
     link: "https://starwars-movie-cards.vercel.app/#",
   },
@@ -52,9 +52,11 @@ export const testimonials = [
 
 export const skills = [
   "JavaScript",
-  "React",
+  "React JS",
   "HTML",
   "CSS",
   "GraphQL",
   "Material UI",
+  "Figma",
+  "Visual Studio Code"
 ];
