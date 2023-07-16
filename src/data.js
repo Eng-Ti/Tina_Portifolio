@@ -5,7 +5,7 @@ export const projects = [
     description:
       "Collaboration Project - worked hand in hand with the design team, data analysts and the back end team to develop a loan App. App allows users to sign up, then sends otp to user's email. Using otp user can log in and fill in a loan application ",
     image: "./project-1.gif",
-    link: "https://cash-loan-pq2b6ww1a-joyibeh93.vercel.app/",
+    link: "https://cash-loan-app.vercel.app/",
   },
   {
     title: "Employee Profile",
